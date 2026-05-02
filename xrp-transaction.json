@@ -1,0 +1,39 @@
+{
+  close_time_iso: '2026-05-02T08:47:20Z',
+  ctid: 'C103D02900000001',
+  engine_result: 'tesSUCCESS',
+  engine_result_code: 0,
+  engine_result_message: 'The transaction was applied. Only final in a validated ledger.',
+  hash: 'AAA85908242F56E2ECB39957538798AA2D7664CDFA72709BE6C01EB4782D7E4D',
+  ledger_hash: '4390973CCBD8A654003C433DBBC8ECAFD8A6EAC8CB028A79CF6ADB9078B9AFF6',
+  ledger_index: 17027113,
+  meta: {
+    AffectedNodes: [ [Object], [Object], [Object] ],
+    DeliveredAmount: '5668',
+    TransactionIndex: 0,
+    TransactionResult: 'tesSUCCESS',
+    delivered_amount: '5668'
+  },
+  status: 'closed',
+  tx_json: {
+    Account: 'rYgD9C3S88xm9p5ckiYcecBMswhzQ3hq4',
+    DeliverMax: '1000000000000000',
+    Destination: 'rUFJWbLF81vsmRFCJg6ZZwE2eN9YwiTruG',
+    Fee: '12',
+    Flags: 131072,
+    LastLedgerSequence: 17027131,
+    SendMax: {
+      currency: 'BAR',
+      issuer: 'rNVLzL9fCb6pY38uLL6DWCdECk3wiQDhUG',
+      value: '0.00566844537595383'
+    },
+    Sequence: 17026708,
+    SigningPubKey: 'ED737E117B5109A05969053FE331A5E111069E8216A6DFAE0B1168EC2A329D2357',
+    TransactionType: 'Payment',
+    TxnSignature: '19A2E206265567EA5B58ED657CAAE614E0A28243E17343283C9363F2045A38AA1B681202857D66F681B10C082690B7C619A7EB66AB62AE1DBC349E0C637D6702',
+    date: 831026840
+  },
+  type: 'transaction',
+  validated: true,
+  warnings: [ { id: 2001, message: 'This response contains a Partial Payment' } ]
+}

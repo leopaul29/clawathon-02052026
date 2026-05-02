@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "near-api-js": "^7.2.0",
+    "node-fetch": "^3.3.2",
+    "openai": "^6.35.0",
+    "xrpl": "^4.6.0"
+  }
+}
