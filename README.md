@@ -23,6 +23,8 @@ An autonomous, AI-powered spiritual guide that bridges traditional Japanese Shin
 
 ## 🔗 Hackathon Resources & Links
 
+- **Luma**: [Clawathon Tokyo Edition](https://luma.com/zw01ink4?tk=BCY6fF)
+
 ### 📜 Project Materials
 
 - **AI Presentation (Manus):** [Interactive Slides](https://manus.im/share/file/14b2b11a-7e9a-45bb-b14e-07d7f1bdecb2)
